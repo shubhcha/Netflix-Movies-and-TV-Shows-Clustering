@@ -16,53 +16,53 @@ We have the data of which contains details of customers like id , age, gender an
 
 **Dataset info**
 
-Number of records: 7787
+1.Number of records: 7787
 
-Number of features: 12
+2.Number of features: 12
 
 # Features information:
 
 The dataset contains features like:
 
-show_id : Unique ID for every Movie / Tv Show
+1.show_id : Unique ID for every Movie / Tv Show
 
-type : A Movie or TV Show
+2.type : A Movie or TV Show
 
-title : Title of the Movie / Tv Shows
+3.title : Title of the Movie / Tv Shows
 
-director : Director of the Movie
+4.director : Director of the Movie
 
-cast : Actors involved in the movie / show
+5.cast : Actors involved in the movie / show
 
-country : Country where the movie / show was produced
+6.country : Country where the movie / show was produced
 
-date_added : Date it was added on Netflix
+7.date_added : Date it was added on Netflix
 
-release_year : Actual Release year of the movie / show
+8.release_year : Actual Release year of the movie / show
 
-rating : TV Rating of the movie / show
+9.rating : TV Rating of the movie / show
 
-duration : Total Duration - in minutes or number of seasons
+10.duration : Total Duration - in minutes or number of seasons
 
-listed_in : Generes
+11.listed_in : Generes
 
-description: The Summary description
+12.description: The Summary description
 
 # Project Work flow
 
-Importing Libraries
+1.Importing Libraries
 
-Loading the dataset
+2.Loading the dataset
 
-Data Summary
+3.Data Summary
 
-Data Cleaning & Data Analysis
+4.Data Cleaning & Data Analysis
 
-Feature selection
+5.Feature selection
 
-Implementing different clustering methods
+6.Implementing different clustering methods
 
-Conclusion
+7.Conclusion
 
 # Future Work
 
