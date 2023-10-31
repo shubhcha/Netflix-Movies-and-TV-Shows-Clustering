@@ -16,37 +16,37 @@ We have the data of which contains details of customers like id , age, gender an
 
 **Dataset info**
 
-1.Number of records: 7787
+1. Number of records: 7787
 
-2.Number of features: 12
+2. Number of features: 12
 
 # Features information:
 
 The dataset contains features like:
 
-1.**show_id** : Unique ID for every Movie / Tv Show
+1. **show_id** : Unique ID for every Movie / Tv Show
 
-2.**type** : A Movie or TV Show
+2. **type** : A Movie or TV Show
 
-3.**title** : Title of the Movie / Tv Shows
+3. **title** : Title of the Movie / Tv Shows
 
-4.**director** : Director of the Movie
+4. **director** : Director of the Movie
 
-5.**cast** : Actors involved in the movie / show
+5. **cast** : Actors involved in the movie / show
 
-6.**country** : Country where the movie / show was produced
+6. **country** : Country where the movie / show was produced
 
-7.**date_added** : Date it was added on Netflix
+7. **date_added** : Date it was added on Netflix
 
-8.**release_year** : Actual Release year of the movie / show
+8. **release_year** : Actual Release year of the movie / show
 
-9.**rating** : TV Rating of the movie / show
+9. **rating** : TV Rating of the movie / show
 
-10.**duration** : Total Duration - in minutes or number of seasons
+10. **duration** : Total Duration - in minutes or number of seasons
 
-11.**listed_in** : Generes
+11. **listed_in** : Generes
 
-12.**description**: The Summary description
+12. **description**: The Summary description
 
 # Project Work flow
 
