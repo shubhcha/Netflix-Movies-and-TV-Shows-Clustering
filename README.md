@@ -25,26 +25,43 @@ Number of features: 12
 The dataset contains features like:
 
 show_id : Unique ID for every Movie / Tv Show
+
 type : A Movie or TV Show
+
 title : Title of the Movie / Tv Shows
+
 director : Director of the Movie
+
 cast : Actors involved in the movie / show
+
 country : Country where the movie / show was produced
+
 date_added : Date it was added on Netflix
+
 release_year : Actual Release year of the movie / show
+
 rating : TV Rating of the movie / show
+
 duration : Total Duration - in minutes or number of seasons
+
 listed_in : Generes
+
 description: The Summary description
 
 # Project Work flow
 
 Importing Libraries
+
 Loading the dataset
+
 Data Summary
+
 Data Cleaning & Data Analysis
+
 Feature selection
+
 Implementing different clustering methods
+
 Conclusion
 
 # Future Work
