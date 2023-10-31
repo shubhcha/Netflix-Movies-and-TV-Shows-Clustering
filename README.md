@@ -50,19 +50,19 @@ The dataset contains features like:
 
 # Project Work flow
 
-1.Importing Libraries
+1. Importing Libraries
 
-2.Loading the dataset
+2. Loading the dataset
 
-3.Data Summary
+3. Data Summary
 
-4.Data Cleaning & Data Analysis
+4. Data Cleaning & Data Analysis
 
-5.Feature selection
+5. Feature selection
 
-6.Implementing different clustering methods
+6. Implementing different clustering methods
 
-7.Conclusion
+7. Conclusion
 
 # Future Work
 
